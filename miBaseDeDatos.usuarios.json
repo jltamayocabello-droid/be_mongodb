@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "6a4d993c6ccf34fc3de21722"
+  },
+  "nombre": "Ana",
+  "edad": 24,
+  "intereses": [
+    "lectura",
+    "viajes"
+  ],
+  "direccion": {
+    "calle": "Av. Principal",
+    "ciudad": "Madrid"
+  }
+}]
