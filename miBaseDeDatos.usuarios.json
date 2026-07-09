@@ -12,4 +12,16 @@
     "calle": "Av. Principal",
     "ciudad": "Madrid"
   }
+},
+{
+  "_id": {
+    "$oid": "6a4f130891d208004a750995"
+  },
+  "nombre": "Juan Luis",
+  "edad": 45,
+  "hobbies": [
+    "futbol",
+    "basket"
+  ],
+  "activo": true
 }]
