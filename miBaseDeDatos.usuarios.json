@@ -24,4 +24,33 @@
     "basket"
   ],
   "activo": true
+},
+{
+  "_id": {
+    "$oid": "6a502b4fe74b6f529f4a6f91"
+  },
+  "nombre": "carlos",
+  "edad": 30,
+  "ciudad": "valparaiso"
+},
+{
+  "_id": {
+    "$oid": "6a502cc3e74b6f529f4a6f93"
+  },
+  "nombre": "pedro",
+  "edad": 36
+},
+{
+  "_id": {
+    "$oid": "6a502cc3e74b6f529f4a6f94"
+  },
+  "nombre": "juano",
+  "edad": 26
+},
+{
+  "_id": {
+    "$oid": "6a502cc3e74b6f529f4a6f95"
+  },
+  "nombre": "arturo Benavidez",
+  "edad": 56
 }]
