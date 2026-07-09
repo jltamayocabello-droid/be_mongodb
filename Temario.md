@@ -14,3 +14,15 @@
     - Crear y eliminar bases de datos
     - Crear, listar y eliminar colecciones
     
+## 3. Operaciones CRUD básicas
+    - Create (crear):
+        - Insertar un documento ( insertOne, insertMany )
+    - Read (leer):
+        - Consultas básicas con find() y findOne().
+        - Uso de filtros y operadores de comparación ($gt, $lt, $eq, etc)
+    - Update (actualizar):
+        - Modificar documentos con updateOne, updateMany .
+        - Operadores de actualización ( $set, $unset, $inc, etc.)
+    - Delete (eliminar):
+        - Eliminar documentos con deleteOne, deleteMany .
+
