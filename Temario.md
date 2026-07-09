@@ -26,3 +26,10 @@
     - Delete (eliminar):
         - Eliminar documentos con deleteOne, deleteMany .
 
+## 4. Consultas avanzadas
+    - Uso de operadores lógicos ( $and, $or, $not)
+    - Proyección: limitar los campos devueltos en una consulta.
+    - Ordenación ( sort ) y paginacipn ( limit, skip )
+    - Consultas con arrays: $in, $all, $elemMatch .
+    - Expresiones regulares para búsquedas de texto.
+
