@@ -33,3 +33,9 @@
     - Consultas con arrays: $in, $all, $elemMatch .
     - Expresiones regulares para búsquedas de texto.
 
+# 5. Índices 
+    - ¿Qué son los indices y por qué son importantes?
+    - Crear indices simples y compuestos.
+    - Tipos de índices: únicos, TTL (time-to-live), geoespaciales.
+    - Analizar rendimiento con explain() .
+    - Eliminar y gestionar índices
