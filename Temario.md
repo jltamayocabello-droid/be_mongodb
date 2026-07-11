@@ -33,9 +33,15 @@
     - Consultas con arrays: $in, $all, $elemMatch .
     - Expresiones regulares para búsquedas de texto.
 
-# 5. Índices 
+## 5. Índices 
     - ¿Qué son los indices y por qué son importantes?
     - Crear indices simples y compuestos.
     - Tipos de índices: únicos, TTL (time-to-live), geoespaciales.
     - Analizar rendimiento con explain() .
     - Eliminar y gestionar índices
+
+## 6. Modelado de datos
+    - Diseño de esquemas en una base de datos NoSQL.
+    - Relaciones: incrustar documentos v/s referencias.
+    - Operadores de agregación: $sum , $avg , $push , etc.
+    - Ejemplos prácticos: estadísticas, reportes y transformaciones de datos.
