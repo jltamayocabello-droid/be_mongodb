@@ -9,3 +9,8 @@
     }
     - Colección: grupo de documentos similares
     - Escalabilidad horizontal: distribuye datos en distintos servidores
+
+# Esquemas
+- ¿Que datos quiero almacenar?
+- ¿Como vamos a consultar esos datos?
+- ¿Que operaciones más frecuentes realizamos?
