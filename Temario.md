@@ -51,3 +51,9 @@
     - Etapas comunes: $match, $group , $sort , $project .
     - Operadores de agregación: $sum , $avg , $push , etc.
     - Ejemplos prácticos: estadísticas, reportes y transformaciones de datos.
+
+## 8. Integración con aplicaciones
+    - Conexión de MongoDB con lenguajes de programación (ej. Node.js, Python, Java).
+    - Uso de drivers oficiales (como Mongoose para Node.js).
+    - Configuración de una conexión básica.
+
