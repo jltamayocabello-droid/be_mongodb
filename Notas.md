@@ -14,3 +14,6 @@
 - ¿Que datos quiero almacenar?
 - ¿Como vamos a consultar esos datos?
 - ¿Que operaciones más frecuentes realizamos?
+
+# Agregaciones
+Los docs de la colección -> Pipeline -> cada etapa procesa los documentos -> nos da resultado final
