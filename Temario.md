@@ -45,3 +45,9 @@
     - Relaciones: incrustar documentos v/s referencias.
     - Operadores de agregación: $sum , $avg , $push , etc.
     - Ejemplos prácticos: estadísticas, reportes y transformaciones de datos.
+
+## 7. Agregaciones
+    - Introducción al framework de agregación.
+    - Etapas comunes: $match, $group , $sort , $project .
+    - Operadores de agregación: $sum , $avg , $push , etc.
+    - Ejemplos prácticos: estadísticas, reportes y transformaciones de datos.
