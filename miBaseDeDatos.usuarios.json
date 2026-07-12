@@ -8,10 +8,7 @@
     "lectura",
     "viajes"
   ],
-  "direccion": {
-    "calle": "Av. Principal",
-    "ciudad": "Madrid"
-  }
+  "direccion": "direccion1"
 },
 {
   "_id": {
@@ -52,5 +49,6 @@
     "$oid": "6a502cc3e74b6f529f4a6f95"
   },
   "nombre": "arturo Benavidez",
-  "edad": 56
+  "edad": 56,
+  "direccion": "direccion2"
 }]
