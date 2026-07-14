@@ -57,6 +57,18 @@
     "$oid": "6a567c0b6815482b04b628ab"
   },
   "nombre": "Pedro Python",
+  "edad": 17,
+  "intereses": [
+    "Python",
+    "MongoDB",
+    "Django"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a567cefb47673c6b0b6371e"
+  },
+  "nombre": "Pedro Python",
   "edad": 30,
   "intereses": [
     "Python",
