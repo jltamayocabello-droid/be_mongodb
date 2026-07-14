@@ -51,4 +51,16 @@
   "nombre": "arturo Benavidez",
   "edad": 56,
   "direccion": "direccion2"
+},
+{
+  "_id": {
+    "$oid": "6a567c0b6815482b04b628ab"
+  },
+  "nombre": "Pedro Python",
+  "edad": 30,
+  "intereses": [
+    "Python",
+    "MongoDB",
+    "Django"
+  ]
 }]
