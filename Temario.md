@@ -57,3 +57,14 @@
     - Uso de drivers oficiales (como Mongoose para Node.js).
     - Configuración de una conexión básica.
 
+# 9. Gestión y administración
+    - Respaldos y restauración de bases de datos.
+    - Usuarios y roles: configuración de autenticación y permisos.
+    - Monitoreo del rendimiento con herramientass como MongoDB Compass o Atlas.
+    - Réplicas y sharding: conceptos básicos de alta disponibilidad y escalabilidad.
+
+# 10. Casos prácticos y proyectos
+    - Consutruir una API REST con MongoDB (ejemplo: lista de tareas o blog).
+    - Almacenar y consultar datos geoespaciales (ejemplo: mapa de ubicaciones).
+    - Procesar grandes vólumenes de datos con agregaciones.
+    - Resolver ejércicios comunes: filtrado, búsqueda y optimización.
