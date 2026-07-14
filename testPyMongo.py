@@ -18,3 +18,11 @@ nuevo_usuario = {
 }
 resultado = collection.insert_one(nuevo_usuario)
 print("Usuario insertado;", resultado.inserted_id)
+
+
+#Actualizar
+resultado = collection.update_one(
+    {"nombre": "Pedro Python"},
+    {"$set": {"edad":17}}
+)
+print("Documento modificado:", resultado.modified_count)
