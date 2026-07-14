@@ -5,3 +5,16 @@ db = client["miBaseDeDatos"]
 collection = db["usuarios"]
 
 print ("Colecciones de la base de datos:", db.list_collection_names())
+
+print("Usuarios en la colección")
+for usuario in collection.find():
+    print(usuario)
+
+# Usuario Nuevo
+nuevo_usuario = {
+    "nombre": "Pedro Python",
+    "edad": 30,
+    "intereses": ["Python", "MongoDB", "Django"]
+}
+resultado = collection.insert_one(nuevo_usuario)
+print("Usuario insertado;", resultado.inserted_id)
